@@ -14,9 +14,13 @@ This project is for educational purposes only.
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/simple-keylogger.git
+git clone https://github.com/Saahil-Gupta/simple-keylogger.git
 cd simple-keylogger
 
-### 2. Create a virtual environment
-```bash 
+### 2.  **Create the virtual environment**
+```bash
 python -m venv venv
+
+### 3. **Activate the virtual environement**
+```bash
+venv\Scripts\activate
