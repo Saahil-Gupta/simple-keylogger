@@ -16,11 +16,32 @@ This project is for educational purposes only.
 ```bash
 git clone https://github.com/Saahil-Gupta/simple-keylogger.git
 cd simple-keylogger
+```
 
 ### 2.  **Create the virtual environment**
 ```bash
 python -m venv venv
+```
 
 ### 3. **Activate the virtual environement**
 ```bash
 venv\Scripts\activate
+```
+
+### 4. Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Running the File
+```bash
+python keylogger.py
+```
+
+### 6. Exiting the File
+Press escape in the terminal when you want to terminate the keylogger
+
+### 📜 Disclaimer
+This project is intended for personal use and educational purposes only.
+Using keyloggers on devices you do not own or do not have explicit permission to monitor is illegal and may result in criminal prosecution.
+Please use responsibly.
